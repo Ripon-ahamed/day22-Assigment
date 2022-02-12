@@ -240,7 +240,7 @@
                     <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                   </div>
-                  <div class="contact-botton"><a class=" btn btn btn-outline-light" href="#"> contact Me</a> </div>
+                  <div class="contact-botton"><a class=" btn btn btn-outline-primary" href="#"> contact Me</a> </div>
                </div>
            </div>
         </div>
